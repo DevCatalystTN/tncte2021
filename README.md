@@ -4,9 +4,11 @@ Resources shared during the 2021 CTE Conference "Coding in the Classroom: Prepar
 
 This session will include an in-depth description of popular coding languages and which careers each are associated with (including HTML, CSS, JavaScript, SQL, Python). The presenter will introduce basic web development concepts and tools endorsed by industry professionals that can be utilized in the classroom. This session is presented by [Dev Catalyst](devcatalyst.com), a program for high school students which utilizes a web platform to teach students up-to-date coding languages. They hope to equip teachers to provide an accurate understanding of the industry they prepare their students for.
 
-# Virtual Resources
+# Classroom Resources
+- [GitHub Tutorial](https://guides.github.com/)
 - [CodePen](https://codepen.io/)
 - [CodeSanbox](https://codesandbox.io/dashboard)
+- [Tinkercad](https://www.tinkercad.com/)
 - [Trinket](https://trinket.io/)
 - [Trinket Sense Hat Simulator](https://trinket.io/library/trinkets/d8e8abe6e2)
 - [Virtual Circuit Labs](https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc-virtual-lab)
@@ -16,9 +18,17 @@ This session will include an in-depth description of popular coding languages an
 - [VS Code](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
-- [CodeSandbox]() (Online Editor)
+- [CodeSandbox](https://codesandbox.io/) (Online Editor)
 
-## Coding Tutorials
+## Portfolio Sites and Interview Prep
+- [LinkedIn](https://www.linkedin.com/)
+- [Dribble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+- [GitHub](github.com)
+- [LeetCode](https://leetcode.com/)
+- [Hackerrank](https://www.hackerrank.com/)
+- 
+- ## Coding Tutorials
 - [Code.org](https://code.org/)
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
