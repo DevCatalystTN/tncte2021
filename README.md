@@ -1,5 +1,5 @@
 # CTE Conference 2021 - Coding in the Classroom
-# [Presentation PDF]()
+# [Presentation PDF](https://drive.google.com/file/d/1kG85hc9N6BMEFsheRgr_MQ4XOJQnwg_m/view?usp=sharing)
 Resources shared during the 2021 CTE Conference "Coding in the Classroom: Preparing Students for the Tech Industry in 2021"
 
 This session will include an in-depth description of popular coding languages and which careers each are associated with (including HTML, CSS, JavaScript, SQL, Python). The presenter will introduce basic web development concepts and tools endorsed by industry professionals that can be utilized in the classroom. This session is presented by [Dev Catalyst](devcatalyst.com), a program for high school students which utilizes a web platform to teach students up-to-date coding languages. They hope to equip teachers to provide an accurate understanding of the industry they prepare their students for.
@@ -36,7 +36,6 @@ This session will include an in-depth description of popular coding languages an
 - YouTubers ([mmTuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw) and [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
 
 ## Raspberry Pi Supplies
-- [Raspberry Pi Foundation Instructions](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/3)
 - [Raspberry Pi 3 Model B](https://www.adafruit.com/product/3775)
 - [Raspberry Pi 4 ](https://www.canakit.com/raspberry-pi-4-basic-kit.html)
 - [microSD Card](https://www.amazon.com/Silicon-Power-Speed-MicroSD-Adapter/dp/B07Q384TPK?tag=georiot-us-default-20&ascsubtag=tomshardware-us-1069463351103967600-20&geniuslink=true)
@@ -78,3 +77,4 @@ This session will include an in-depth description of popular coding languages an
 - [Retro Pi Project](https://retropie.org.uk/) - turn your Raspberry Pi into a video game emulator
 
 # [More Info About Dev Catalyst](https://www.devcatalyst.com/)
+# Interested in Dev Catalyst for your school? Contact Christen - christen@attheco.com
