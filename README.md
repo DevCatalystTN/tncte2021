@@ -2,7 +2,7 @@
 # [Presentation PDF]()
 Resources shared during the 2021 CTE Conference "Coding in the Classroom: Preparing Students for the Tech Industry in 2021"
 
-This session will include an in-depth description of popular coding languages and which careers each are associated with (including HTML, CSS, JavaScript, SQL, Python). The presenter will introduce basic web development concepts and tools endorsed by industry professionals that can be utilized in the classroom. This session is presented by Dev Catalyst, a program for high school students which utilizes a web platform to teach students up-to-date coding languages. They hope to equip teachers to provide an accurate understanding of the industry they prepare their students for.
+This session will include an in-depth description of popular coding languages and which careers each are associated with (including HTML, CSS, JavaScript, SQL, Python). The presenter will introduce basic web development concepts and tools endorsed by industry professionals that can be utilized in the classroom. This session is presented by [Dev Catalyst](devcatalyst.com), a program for high school students which utilizes a web platform to teach students up-to-date coding languages. They hope to equip teachers to provide an accurate understanding of the industry they prepare their students for.
 
 # Virtual Resources
 - [CodePen](https://codepen.io/)
