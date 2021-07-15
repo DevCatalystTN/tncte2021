@@ -78,3 +78,4 @@ This session will include an in-depth description of popular coding languages an
 
 # [More Info About Dev Catalyst](https://www.devcatalyst.com/)
 # Interested in Dev Catalyst for your school? Contact Christen - christen@attheco.com
+# devcatalyst.com/workshop
